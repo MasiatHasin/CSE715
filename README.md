@@ -1,9 +1,13 @@
+All data files except `Xz_merged.npy` have already been preprocessed and stored in the **"data/"** folder. Please download Xz_merged from [here](https://drive.google.com/file/d/17EtkZ3oHXpWW9D2GmNKRZ5acKC9iHfXb/view?usp=drivesdk).
+
+---
+
+If you wish to preprocess from scratch, please refer to the steps below.
+
 ##### Environment Setup
 
 1. `python -m venv env`
 2. `pip install -r requirements.txt`
-
-All files except `Xz_merged.npy` have already been preprocessed and stored in the **data/** folder. If you wish to do it from scratch, please refer to the steps below.
 
 ##### Dataset Download
 
@@ -21,4 +25,4 @@ Run these files in the given order:
 5. `gtzan_spectrogram.py`
 6. `bangla_spectrogram.py`
 7. `merged_spectrogram.py`
-8. `lyrics_embedding.py`
+8. `lyric_embedding.py`
