@@ -1,0 +1,3 @@
+Method,Clustering Algorithm,Silhouette,Calinski-Harabasz
+VAE (latent μ) ,KMeans,0.3464,1363.74
+PCA,KMeans,0.1618,399.06
