@@ -11,8 +11,8 @@ If you wish to preprocess from scratch, please refer to the steps below.
 
 ##### Dataset Download
 
-1. Download [GTZAN Dataset](https://www.kaggle.com/datasets/andradaolteanu/gtzan-dataset-music-genre-classificationhttps:/) for English music. Extract **Data -> genres_original** to **raw_data/**. Rename to **gtzan**
-2. Download [BanglaBeats](https://www.kaggle.com/datasets/thisisjibon/banglabeats3sechttps:/) Dataset for Bangla music. Extract **wavs3sec** to **raw_data/**. Rename to **bangla_beats**
+1. Download [GTZAN Dataset](https://www.kaggle.com/datasets/andradaolteanu/gtzan-dataset-music-genre-classification)for English music. Extract **Data -> genres_original** to **raw_data/**. Rename to **gtzan**
+2. Download [BanglaBeats](https://www.kaggle.com/datasets/thisisjibon/banglabeats3sec)Dataset for Bangla music. Extract **wavs3sec** to **raw_data/**. Rename to **bangla_beats**
 
 ##### Data Preparation
 
